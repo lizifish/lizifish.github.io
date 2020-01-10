@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lizifish.github.io/2018/01/22/2017-conclusion/</loc>
+    
+    <lastmod>2020-01-10T06:51:17.904Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lizifish.github.io/tags/index.html</loc>
     
     <lastmod>2020-01-09T07:15:48.955Z</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://lizifish.github.io/archives/index.html</loc>
+    <loc>https://lizifish.github.io/about/index.html</loc>
     
     <lastmod>2020-01-09T07:15:48.954Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lizifish.github.io/about/index.html</loc>
+    <loc>https://lizifish.github.io/archives/index.html</loc>
     
     <lastmod>2020-01-09T07:15:48.954Z</lastmod>
     
@@ -40,13 +47,6 @@
     <loc>https://lizifish.github.io/friends/index.html</loc>
     
     <lastmod>2020-01-09T07:15:48.954Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lizifish.github.io/2018/01/22/2017-conclusion/</loc>
-    
-    <lastmod>2020-01-09T07:15:48.952Z</lastmod>
     
   </url>
   
